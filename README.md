@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 Proyek ini merupakan implementasi **Convolutional Neural Network (CNN)** untuk klasifikasi gambar **kucing dan anjing**. Model dilatih menggunakan **TensorFlow & Keras**, serta disimpan dalam beberapa format:  
-- **SavedModel** (untuk TensorFlow Serving)
-- **TFLite** (untuk mobile & embedded devices)
-- **TensorFlow.js** (untuk deployment di web)
+- **SavedModel** (untuk TensorFlow Serving).
+- **TFLite** (untuk mobile & embedded devices).
+- **TensorFlow.js** (untuk deployment di web).
 
 ## 📂 Struktur Folder
 ```
